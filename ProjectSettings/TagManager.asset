@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bridge Step
+  - Boundry
+  - Pink
+  - Pink Step
+  - Pink Player
+  - Blue Step
+  - Blue Player
+  - Blue
+  - Green Step
+  - Step
+  - Red
+  - Red Step
+  - Red Player
+  - Green
+  - Green Player
+  - Collected
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Boundry
+  - Blue Steps
+  - Red Steps
+  - Green Steps
+  - Pink Steps
+  - AI Dumb Steps
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
